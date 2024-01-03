@@ -31,4 +31,7 @@ You can use this in Windows too by using wsl and installing ffmpeg in windows
 You can use any extension video or audio that is supported by ffmpeg , just you will have to change .mp4 with your video extension in line 5 of script
 
 for using audio other than aac you will have to replace .aac in line 9 with your audio file extension .
-#tags batch replace audio , add audio to video , replace audio in whole folder 
+
+
+
+#tags batch replace audio , add audio to video , replace audio in whole folder , add .aac file to .mp4 file

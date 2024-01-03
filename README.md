@@ -1,4 +1,4 @@
-This bash script uses ffmpeg to merge/replace an audio file with a pre-exisiting video files for all files in a folder
+This bash script uses ffmpeg to merge/replace an audio file with a pre-exisiting video files for all files in a folder on Linux based OS and Windows with wsl or cygwin
 # Merge /Replace Audio 
 
 ## 1) Purpose
